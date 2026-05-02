@@ -1,0 +1,5 @@
+Company,Revenue_Growth,EBITDA_Margin,ROCE,Debt_Ratio,Market_Growth,Competition,Public_Perception,Industry_Risk,Sentiment_Confidence
+INFY.NS,0.12,0.22,0.28,0.2,0.1,4,2,3,0.7
+HINDUNILVR.NS,0.08,0.25,0.3,0.1,0.06,3,3,2,0.5
+RELIANCE.NS,0.14,0.2,0.25,0.4,0.12,4,3,3,1.0
+ITC.NS,0.1,0.27,0.32,0.15,0.08,3,2,2,1.0
